@@ -188,7 +188,7 @@ Developed by **RATNESH SINGH**
 ### Project Links
 - 🌐 Live Demo: [Streamlit](https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/)
 - 📖 Documentation: [GitHub Wiki](https://github.com/Ratnesh-181998/LoanTap-Credit-Risk-Analysis/wiki)
-- 🐛 Issue Tracker: [GitHub Issues](https://github.com/LoanTap-Credit-Risk-Analysis/issues)
+- 🐛 Issue Tracker: [GitHub Issues](https://github.com/Ratnesh-181998/LoanTap-Credit-Risk-Analysis/issues)
 
 ---
 
