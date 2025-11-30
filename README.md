@@ -11,7 +11,11 @@
 The application serves as a comprehensive dashboard for data scientists and business stakeholders to explore data, train models, and derive strategies for responsible lending.
 
 ---
+## 🎬 Demo
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/
 
+---
 ## 📱 Application Modules
 
 The application is structured into 7 comprehensive tabs, each designed for a specific stage of the analysis pipeline:
@@ -132,10 +136,10 @@ Developed by **RATNESH SINGH**
 - 🐙 **GitHub:** [Ratnesh-181998](https://github.com/Ratnesh-181998)
 - 📱 **Phone:** +91-947XXXXX46
 
-### 🔗 Useful Links
-- 🌐 **Live Demo:** [Streamlit App](https://ola-driver-churn-prediction-machine-learning-mmntzrjjgxbadbxd4.streamlit.app/)
-- 📖 **Documentation:** [GitHub Wiki](https://github.com/Ratnesh-181998/LoanTap-Credit-Risk-Analysis/wiki)
-- 🐛 **Issue Tracker:** [Report Issues](https://github.com/Ratnesh-181998/LoanTap-Credit-Risk-Analysis/issues)
+### Project Links
+- 🌐 Live Demo: [Streamlit](https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/)
+- 📖 Documentation: [GitHub Wiki](https://github.com/Ratnesh-181998/LoanTap-Credit-Risk-Analysis/wiki)
+- 🐛 Issue Tracker: [GitHub Issues](https://github.com/LoanTap-Credit-Risk-Analysis/issues)
 
 ---
 
